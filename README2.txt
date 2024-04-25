@@ -1,0 +1,1 @@
+Enter the path to the data as the first argument. Enter the desired state as a two letter abbreviation as the second argument.
